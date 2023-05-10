@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm ✨Abror✨, researcher and mobile engineer interested in topics related to iOS and Android development in Flutter. I'm a recent Bachelor's graduate from Westminster International University in Tashkent and currently work in SlashDash LLC - EduLab platfom enhancing its speed and capability.
+
+## Technologies I'm familiar with 🔬
+- **Languages:** Flutter Python C# R Bootstrap
+
+## LikedIn
+[Link text][URL](https://www.linkedin.com/in/abror-shamuradov-486885210/)
