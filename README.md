@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 I'm ✨Abror✨, researcher and mobile engineer interested in topics related to iOS and Android development in Flutter. I'm a recent Bachelor's graduate from Westminster International University in Tashkent and currently work in SlashDash LLC - EduLab platfom enhancing its speed and capability.
 
 ## Technologies I'm familiar with 🔬
-- **Languages:** Flutter Python C# R Bootstrap
+- **Languages:** 
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,html,css,c,)](https://skillicons.dev)
 
-## LikedIn
-[Link text][URL](https://www.linkedin.com/in/abror-shamuradov-486885210/)
+## [LikedIn](https://www.linkedin.com/in/abror-shamuradov-486885210/)
+## [Instagram](https://www.instagram.com/abror_shamuradov/)
+
