@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm ✨Abror✨, researcher and mobile engineer interested in topics related to iOS and Android development in Flutter. I'm a recent Bachelor's graduate from Westminster International University in Tashkent and currently work in SlashDash LLC -(EduLab platfom) enhancing its speed and capability.
+I'm ✨Abror✨, researcher and mobile engineer interested in topics related to iOS and Android development in Flutter. I'm a recent Bachelor's graduate from Westminster International University in Tashkent and currently work at Slash Dash LLC -(EduLab platfom) enhancing its speed and capability.
 
 ## Technologies I'm familiar with 🔬
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,c,swift,blender)](https://skillicons.dev)
