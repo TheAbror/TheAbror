@@ -22,4 +22,5 @@ I'm ✨Abror✨, researcher and mobile engineer interested in topics related to 
 
 ## [LikedIn](https://www.linkedin.com/in/abror-shamuradov-486885210/)
 ## [Instagram](https://www.instagram.com/abror_shamuradov/)
+## [Medium](https://medium.com/@oyjddkvj)
 
