@@ -20,7 +20,7 @@ I'm ✨Abror✨, researcher and mobile engineer interested in topics related to 
 ## Technologies I'm familiar with 🔬
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,c,swift,blender)](https://skillicons.dev)
 
-## [LikedIn](https://www.linkedin.com/in/abror-shamuradov-486885210/)
+## (https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LikedIn](https://www.linkedin.com/in/abror-shamuradov-486885210/)
 ## [Instagram](https://www.instagram.com/abror_shamuradov/)
 ## [Medium](https://medium.com/@oyjddkvj)
 
