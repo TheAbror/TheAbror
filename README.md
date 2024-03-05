@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 I'm ✨Abror✨, researcher and mobile engineer interested in topics related to iOS and Android development in Flutter. I'm a recent Bachelor's graduate from Westminster International University in Tashkent and currently work at Slash Dash LLC -(EduLab platfom) enhancing its speed and capability.
 
-## Technologies I'm familiar with 🔬
+## Technologies I work with 🔬
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,js,c,swift,blender)](https://skillicons.dev)
 
 ## [LikedIn](https://www.linkedin.com/in/abror-shamuradov-486885210/)
 ## [Instagram](https://www.instagram.com/abror_shamuradov/)
 ## [Medium](https://medium.com/@oyjddkvj)
+## [Portfolio](https://github.com/TheAbror/portfolio)
 
