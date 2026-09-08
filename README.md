@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Flutter developer with 4+ years of experience building high-performance mobile apps used by millions of people across iOS and Android. My work sits at the intersection of fintech and mobile engineering — from real-time payment flows to cross-border money transfers — where reliability, security, and speed all have to hold up under heavy transactional load.
+I`m a Flutter developer with 4+ years of experience building high-performance mobile apps used by millions of people across iOS and Android. My work sits at the intersection of fintech and mobile engineering — from real-time payment flows to cross-border money transfers — where reliability, security, and speed all have to hold up under heavy transactional load.
 A few things I focus on:
 • Scalable, clean architecture (BLoC/Cubit, modular clean architecture) that keeps codebases maintainable as teams and features grow
 • Security-first engineering — biometric/PIN auth, KYC and liveness detection, encrypted storage, and end-to-end request/response encryption to protect sensitive user data
